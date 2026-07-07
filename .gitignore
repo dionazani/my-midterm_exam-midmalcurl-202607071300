@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Batasi agar file dataset yang besar tidak masuk ke repositori GitHub
+dataset/raw/
+dataset/processed/
+.ipynb_checkpoints/
+__pycache__/
