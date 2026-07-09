@@ -26,10 +26,6 @@ This repository contains a machine learning research project for malicious URL d
 The repository is organized into a modular machine learning pipeline, covering the complete workflow from data preparation to model training and evaluation.
 
 ```text
-dataset/
-├── raw/                  # Original dataset
-└── processed/            # Cleaned dataset ready for modeling
-
 notebooks/
 ├── 01_eda_and_preprocessing.ipynb
 ├── 02_feature_engineering_ga.ipynb
