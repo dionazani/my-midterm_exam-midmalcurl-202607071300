@@ -1,4 +1,5 @@
 # my-midtem_exam-remalcurl-202607071300
+## Malicious URL Detection Using Hybrid Quantitative Approach
 ---
 
 A machine learning research project for detecting malicious URLs using **lexical feature engineering**, **Genetic Algorithm-based feature selection**, and **Tree-Based Ensemble Learning**. This project compares the performance of **Random Forest (Bagging)** and **XGBoost (Boosting)** on a public malicious URL dataset. **Developed as part of a midterm examination**.
