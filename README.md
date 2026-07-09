@@ -10,7 +10,6 @@ A machine learning research project for detecting malicious URLs using **lexical
 
 | Item | Description |
 |------|-------------|
-| **Course** | Computational Intelligence and Machine Learning |
 | **Development Environment** | Ubuntu WSL 2, Visual Studio Code, Git |
 | **Programming Language** | Python |
 | **Dataset** | Public Malicious URL Dataset (Kaggle) |
