@@ -37,8 +37,6 @@ notebooks/
 
 | Directory / File | Description |
 |------------------|-------------|
-| `dataset/raw/` | Stores the original dataset downloaded from the public source. |
-| `dataset/processed/` | Contains the cleaned and preprocessed dataset used for feature engineering, model training, and evaluation. |
 | `notebooks/01_eda_and_preprocessing.ipynb` | Performs Exploratory Data Analysis (EDA), data cleaning, preprocessing, and binary label transformation. |
 | `notebooks/02_feature_engineering_ga.ipynb` | Implements lexical feature extraction and Genetic Algorithm-based feature selection. |
 | `notebooks/03_model_training_rf.ipynb` | Trains and evaluates the Random Forest classifier. |
